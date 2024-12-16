@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Student Information Management</string>
+    <string name="app_t">Select Category</string>
+    <string-array name="data">
+        <item>Boys</item>
+        <item>Girls</item>
+    </string-array>
+</resources>
